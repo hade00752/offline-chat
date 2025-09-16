@@ -1,0 +1,3 @@
+port: 50001
+control_port: 6001
+beacon_interval: 5
